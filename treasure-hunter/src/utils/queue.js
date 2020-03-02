@@ -31,7 +31,6 @@ export default class Queue {
         this.length--
         return value
     }
-
 }
 
 // q = new Queue()
